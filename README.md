@@ -1,4 +1,4 @@
-# mianArduino
+# mainArduino
 椅子制御用メインマイコン
 ## ハードウェア構成
 - 後ほど記述
